@@ -1,0 +1,225 @@
+                    /*declarar constantes de diseño para las 
+fuentes, colores y recursos*/
+                    /* estilos para el cuerpo (body)
+   se utiliza el selector de etiqueta*/
+                    /*configuraciones globales*/
+                    
+                    body {
+                        background: #0edfee;
+                    }
+                    /*secciones*/
+                    
+                    section h2 {
+                        text-align: center;
+                        font-size: 32px;
+                        margin-bottom: 70px;
+                    }
+                    
+                    h3 {
+                        text-align: center;
+                        color: #20ba5a;
+                        transition: all 300ms ease;
+                    }
+                    
+                    .btn-wsp {
+                        position: absolute;
+                        width: 60px;
+                        height: 60px;
+                        left: 10px;
+                        line-height: 63px;
+                        bottom: 25px;
+                        right: 25px;
+                        background: #25d366;
+                        color: #FFF;
+                        border-radius: 50px;
+                        text-align: center;
+                        font-size: 35px;
+                        box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+                        z-index: 100;
+                        transition: all 300ms ease;
+                    }
+                    
+                    .social a {
+                        color: rgb(223, 226, 242);
+                        display: inline-block;
+                        background-color: #090a09;
+                        border-radius: 50%;
+                        width: 60px;
+                        height: 60px;
+                        font-size: 24px;
+                        font-weight: bold;
+                        margin-right: 60px;
+                        line-height: 30px;
+                        -webkit-transition: all .3s;
+                        -moz-transition: all .3s;
+                        -ms-transition: all .3s;
+                        transition: all .3s;
+                        padding: 12px;
+                        margin-left: 100px;
+                        margin-bottom: 15px;
+                    }
+                    
+                    #home .divider {
+                        width: 250px;
+                        margin: 0 auto;
+                        border-top: 5px solid #fe4336;
+                    }
+                    
+                    #home .social {
+                        margin-top: 80px;
+                    }
+                    
+                    #home .social a {
+                        color: var(--colorFondo);
+                        display: inline-block;
+                        background-color: var(--colorFooter);
+                        border-radius: 50%;
+                        width: 50px;
+                        height: 50px;
+                        font-size: 24px;
+                        font-weight: bold;
+                        margin-right: 10px;
+                        line-height: 50px;
+                        -webkit-transition: all .3s;
+                        -moz-transition: all .3s;
+                        -ms-transition: all .3s;
+                        transition: all .3s;
+                    }
+                    
+                    #home {
+                        text-align: center;
+                        padding: 200px 0 150px;
+                    }
+                    
+                    a {
+                        color: var(--colorFondo);
+                        display: inline-block;
+                        background-color: var(--colorFooter);
+                        border-radius: 50%;
+                        width: 50px;
+                        height: 50px;
+                        font-size: 24px;
+                        font-weight: bold;
+                        margin-right: 10px;
+                        line-height: 50px;
+                        -webkit-transition: all .3s;
+                        -moz-transition: all .3s;
+                        -ms-transition: all .3s;
+                        transition: all .3s;
+                    }
+                    
+                    #home .social a:hover {
+                        background-color: #fed136;
+                    }
+                    
+                    .social a {
+                        color: rgb(13, 13, 14);
+                        display: inline-block;
+                        background-color: blue;
+                        border-radius: 50%;
+                        border: solid 3px violet;
+                        width: 50px;
+                        height: 50px;
+                        font-size: 24px;
+                        font-weight: bold;
+                        margin-right: 10px;
+                        line-height: 50px;
+                        -webkit-transition: all .3s;
+                        -moz-transition: all .3s;
+                        -ms-transition: all .3s;
+                        transition: all .3s;
+                    }
+                    
+                    img {
+                        background-color: #3d4763;
+                        border-radius: 33px;
+                        border: solid 12px white;
+                        padding-left: 2px;
+                        align-content: center;
+                        border-right-color: aqua;
+                        padding-left: 15%;
+                        padding-right: 15%;
+                        margin-left: 33px;
+                        border-bottom: solid 12px rgb(20, 30, 49);
+                        border-left-color: rgb(59, 20, 85);
+                        border-top: solid 12px rgb(125, 84, 153);
+                    }
+                    
+                    h1 {
+                        background-color: rgb(76, 141, 202);
+                        border-radius: 70%;
+                        margin-left: 20px;
+                        padding-left: 2px;
+                        text-align: center;
+                        text-underline-position: above;
+                        text-align: center;
+                        color: rgb(14, 14, 250);
+                        border: solid 5px rgb(24, 24, 83);
+                    }
+                    
+                    h2 {
+                        background-color: rgb(194, 159, 159);
+                        border-radius: 90%;
+                        margin-left: 20px;
+                        padding-left: 2px;
+                        text-align: center;
+                        text-underline-position: above;
+                        text-align: center;
+                        color: rgb(13, 5, 114);
+                        border: solid 3px rgb(84, 84, 218);
+                        border-top: solid 7px rgb(73, 21, 73);
+                    }
+                    
+                    h3 {
+                        background-color: rgb(166, 165, 245);
+                        border-radius: 70%;
+                        margin-left: 33px;
+                        padding-left: 2px;
+                        text-align: center;
+                        text-underline-position: above;
+                        text-align: center;
+                        color: rgb(9, 14, 11);
+                        border: solid 3px rgb(142, 142, 194);
+                        border-bottom: violet;
+                        border-top: #090a09;
+                        border: solid 7px rgb(42, 45, 175);
+                        border-top: #090a09;
+                        border-top: solid 7px white;
+                    }
+                    
+                    h4 {
+                        margin-left: 33px;
+                        padding-left: 20px;
+                        background-color: rgb(21, 153, 120);
+                        border-radius: 70%;
+                        border: solid 8px blue;
+                        border-bottom: solid 8px black;
+                        text-align: center;
+                    }
+                    
+                    h5 {
+                        margin: left 33px;
+                        background-color: rgb(214, 238, 227);
+                        text-align: center;
+                        border-radius: 100%;
+                        border: solid 9px rgb(29, 59, 29);
+                        padding-top: 20px;
+                        padding-bottom: 33px;
+                        color: rgb(22, 11, 11);
+                    }
+                    
+                    .contactame {
+                        background-color: rgba(0, 0, 0, 0.3);
+                    }
+                    
+                    p {
+                        align-content: center;
+                        margin-left: 40%;
+                        background-color: aliceblue;
+                        text-align: center;
+                        border-radius: 50%;
+                        padding-top: 7px;
+                        padding-bottom: 7px;
+                    }
+                    
+                    ,
