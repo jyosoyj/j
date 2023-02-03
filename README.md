@@ -19,12 +19,12 @@
 
 <body>
   
-    <H1>TIGO HOGAR</H1>
+    <H1>HOGAR</H1>
     <div>
         <p>¡Para que siempre estes conectado! </p>
 
        
-        <h2> HOGAR </h2>
+        <h2> </h2>
 
         <img src="images/publi tigooo.jpg" width="230px">
 
