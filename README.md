@@ -24,7 +24,7 @@
         <p>¡Para que siempre estes conectado! </p>
 
        
-        <h2> </h2>
+        <h2> Te Contacto con un  asesor </h2>
 
         <img src="images/publi tigooo.jpg" width="230px">
 
