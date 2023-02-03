@@ -23,7 +23,7 @@
     <div>
         <p>¡Para que siempre estes conectado! </p>
 
-        </div<br><br>
+        <div<br><br>
         <h2> HOGAR </h2>
 
         <img src="images/publi tigooo.jpg" width="230px">
