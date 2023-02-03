@@ -35,7 +35,7 @@
         <a href="https://api.whatsapp.com/send?phone=573012578319" class="btn-wsp" target="_blank">
             <i class="fa fa-whatsapp icono"></i>
         </a>
-        <img src="images/LOGO2023 BENNY.jpg" width="230px" , left="400px">
+        <img src="images/LOGO2023 BENNY.jpg" width="230px" >
         <h3> Mis redes </h3>
         <a href="https://api.whatsapp.com/send?phone=573012578319" class="btn-wsp" target="_blank">
             <i class="fa fa-whatsapp icono"></i>
