@@ -16,10 +16,9 @@
     </script>
     <title>Conectate!</title>
 </head>
-<a href="https://api.whatsapp.com/send?phone=573012578319" class="btn-wsp" target="_blank"><i class="fa fa-whatsapp icono"></i></a>
 
 <body>
-    <h6>YO SOY </h6>
+  
     <H1>TIGO HOGAR</H1>
     <div>
         <p>¡Para que siempre estes conectado! </p>
